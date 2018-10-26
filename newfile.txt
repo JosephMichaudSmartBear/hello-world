@@ -2,3 +2,4 @@ There's a new file to add to this commit.
 
 This line was added from branch1
 And this from branch2.
+And this from branch3.
