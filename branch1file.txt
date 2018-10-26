@@ -1,3 +1,0 @@
-This is new file introduced in branch1.
-
-There's not much in it right now.
