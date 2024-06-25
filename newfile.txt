@@ -29,3 +29,4 @@ aaa
 bbbb
 cccc
 cloud start
+no status check
